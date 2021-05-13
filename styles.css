@@ -1,0 +1,103 @@
+body {
+
+}
+
+h3 {
+  margin: 5% auto;
+}
+
+p {
+  font-size: 1.2rem;
+  line-height: 2;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+
+#navbar-section {
+  padding: 1% 5%;
+
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+
+#top-container {
+  text-align: center;
+  padding: 3%;
+}
+
+
+.left-top-side {
+  position: relative;
+  top: 35%;
+}
+
+.right-top-side {
+  margin: 3%;
+  border-radius: 10%;
+}
+
+
+#middle-container {
+  background-color: #ececec;
+  padding: 5%;
+  text-align: center;
+}
+
+.left-middle-side{
+  position: relative;
+  top: 35%;
+  text-align: left;
+  margin-left: 10%;
+}
+
+#about-section {
+  padding: 8%;
+  text-align: center;
+}
+
+.about {
+  margin-bottom: 5%;
+}
+
+.card {
+  margin: 3%;
+  height: 27rem;
+}
+
+.card-image {
+  height: 16rem;
+}
+
+.corona {
+  background-color: black;
+  color: white;
+}
+
+.hotspots {
+  background-color: #f7e7bd;
+  color: black;
+}
+
+.symptoms {
+  background-color: #dbe3e5;
+}
+
+.card-title {
+  color: black;
+  font-size: 1.3rem;
+}
+
+.card-title-corona {
+  color: white;
+  font-size: 1.3rem;
+}
